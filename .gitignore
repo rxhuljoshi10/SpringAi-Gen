@@ -1,0 +1,12 @@
+#Ignore files 
+/Backend/target
+/Backend/.mvn
+/Backend/.idea
+/Backend/.classpath
+/Backend/.project
+/Backend/.settings
+
+# Ignore frontend dependencies
+/Frontend/node_modules
+/Frontend/.next
+/Frontend/dist
